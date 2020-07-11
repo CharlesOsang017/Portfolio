@@ -26,7 +26,7 @@ img{
     border: slateblue;
 }
 .button a:hover{
-    /* color: deeppink; */
+    color: deeppink;
     /* background-color: slateblue; */
     padding-left: unset;
 
@@ -47,6 +47,4 @@ img{
     padding: 10px 10px 20px 10px;
     border: 1px solid rgb(19, 40, 230);
     background-color: rgba(6, 143, 177, 0.87);
-    /* box-shadow: 10px 10px 10px 10px #aaaaaa */
-
 }
