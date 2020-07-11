@@ -19,3 +19,11 @@ img{
 .footer{
     background-color: lavenderblush;
 }
+.button a{
+    color:blue;
+}
+.button a:hover{
+    color: deeppink;
+}
+
+
