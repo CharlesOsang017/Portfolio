@@ -4,9 +4,18 @@ html{
 img{
     height: 400px;
     width: 400px;
+    
 }
 .header{
     display: flex;
     justify-content: center;
-    background-color: mediumvioletred;
+    background-color: palegreen;
+}
+.web{
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+}
+.footer{
+    background-color: lavenderblush;
 }
