@@ -3,13 +3,13 @@ html{
 }
 img{
     height: 400px;
-    width: 400px;
-    
+    width: 400px;        
 }
 .header{
     display: flex;
     justify-content: center;
     background-color: palegreen;
+    
 }
 .web{
     display: flex;
@@ -21,9 +21,15 @@ img{
 }
 .button a{
     color:blue;
+    box-shadow: silver;
+    padding: 5px 3px 5px 4px;
+    border: slateblue;
 }
 .button a:hover{
-    color: deeppink;
+    /* color: deeppink; */
+    /* background-color: slateblue; */
+    padding-left: unset;
+
 }
 .subh{
     display: flex;
@@ -33,7 +39,14 @@ img{
 }
 
 .images img{ 
-    border-radius: 50%;
+    box-shadow: inset 10px 5px 25px 5px black, 5px 5px 12px 2px black;
+    /* border-radius: 50%; */
     width: 32vw;
     height: 58vh;
+    width: 284px;
+    /* padding: 10px 10px 20px 10px;
+    border: 1px solid rgb(19, 40, 230);
+    background-color: rgba(6, 143, 177, 0.87);
+    box-shadow: 10px 10px 10px 10px #aaaaaa */
+
 }
