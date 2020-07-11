@@ -5,7 +5,8 @@ img{
     height: 400px;
     width: 400px;
 }
-h1{
-    background-color: mediumvioletred;
+.header{
     display: flex;
+    justify-content: center;
+    background-color: mediumvioletred;
 }
