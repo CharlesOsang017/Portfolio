@@ -48,3 +48,14 @@ img{
     border: 1px solid rgb(19, 40, 230);
     background-color: rgba(6, 143, 177, 0.87);
 }
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
+ul li:hover{
+    color: yellow;
+    padding: 3px 4px 3px;
+    justify-content: flex-start;
+}
