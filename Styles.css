@@ -35,7 +35,7 @@ img{
     display: flex;
     justify-content: center;
     font-size: 23px;
-    background-color: forestgreen;
+    /* background-color: forestgreen; */
 }
 
 .images img{ 
@@ -59,3 +59,7 @@ ul li:hover{
     padding: 3px 4px 3px;
     justify-content: flex-start;
 }
+/* #logo{
+    height: 2vh;
+    width: 3vw;
+} */
