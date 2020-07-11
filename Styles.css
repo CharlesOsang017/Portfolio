@@ -32,4 +32,8 @@ img{
     background-color: forestgreen;
 }
 
-
+.images img{ 
+    border-radius: 50%;
+    width: 32vw;
+    height: 58vh;
+}
