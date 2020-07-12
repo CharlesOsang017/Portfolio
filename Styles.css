@@ -63,5 +63,29 @@ ul li:hover{
     background-color: brown;
     display: flex;
     justify-content: space-around;
-   
+}
+.icons{
+    font-size: 45px;
+    /* background-color: tan; */
+     display: flex;  
+     flex-direction: row-reverse;  
+     justify-content: space-evenly;  
+     
+}
+.facebook {
+    color: blue;
+    
+}
+.github{
+    color:green;
+}
+.twitter{
+   color: aqua;
+}
+.instagram{
+    color: salmon;
+}
+.inline{
+    display: flex;
+    justify-content: flex-end;
 }
