@@ -59,7 +59,11 @@ ul li:hover{
     padding: 3px 4px 3px;
     justify-content: flex-start;
 }
-/* #logo{
-    height: 2vh;
+#logo{
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+    /* height: 2vh;
     width: 3vw;
-} */
+     */
+}
