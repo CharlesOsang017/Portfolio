@@ -9,7 +9,6 @@ img{
     display: flex;
     justify-content: center;
     background-color: palegreen;
-    
 }
 .footer{
     background-color: lavenderblush;
@@ -18,9 +17,7 @@ img{
     display: flex;
     justify-content: center;
     font-size: 23px;
-    /* background-color: forestgreen; */ */
 }
-
 .images img{ 
     box-shadow: inset 10px 5px 25px 5px black, 5px 5px 12px 2px black;
     border-radius: 50%;
@@ -30,18 +27,17 @@ img{
     padding: 10px 10px 20px 10px;
     border: 1px solid rgb(19, 40, 230);
     background-color: rgba(6, 143, 177, 0.87);
+    margin: 40px;
 }
-ul li{
-    list-style: none;
-    display: inline-block;
-    padding: 5px;
-    margin: 5px;
+ul a li{
+   list-style: none;
+   margin: 6px;
+   float: right;
 }
-ul li:hover{
+ul a li:hover{
     color: yellow;
     padding: 3px 4px 3px;
-    /* display: flex; */
-    /* align-items: flex-end; */
+    text-decoration: none;
 }
 #logo{
     background-color: brown;
@@ -50,7 +46,6 @@ ul li:hover{
 }
 .icons{
     font-size: 45px;
-    /* background-color: tan; */
      display: flex;  
      flex-direction: row-reverse;  
      justify-content: space-evenly;  
@@ -58,7 +53,6 @@ ul li:hover{
 }
 .facebook {
     color: blue;
-    
 }
 .github{
     color:rgb(99, 112, 99);   
@@ -73,19 +67,9 @@ ul li:hover{
     display: flex;
     justify-content: flex-end;
 }
-/* .button a{
-    margin: auto;
-} */
-.web{
-    display: flex;
-    align-items: flex-end;
-}
 .fweb  {
     font-size: 25px;
-}
-.button1 a{
-    
-}
+} 
 .travel  {
     font-size: 25px;
 }
@@ -117,4 +101,30 @@ ul li:hover{
 }
 .instagram:hover{
     color: brown;
+}
+.myport img{
+    height: 24vh;
+    width: 23vw;
+}
+.hlogo img{
+    height: 15vh;
+    width: 10vw;
+    margin: 20px;
+}
+.projects{
+    font-size: 30px;
+    margin: 36px;
+    margin-top: -75vh;
+}
+.prologo img{
+    margin-top: -75vh;
+}
+a{
+    text-decoration: none;
+}
+.button{
+    background-color: lightcoral;
+}
+.button :hover{
+    color:gold;
 }
