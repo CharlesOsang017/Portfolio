@@ -18,7 +18,6 @@ img{
     display: flex;
     justify-content: center;
     font-size: 23px;
-    /* background-color: forestgreen; */ */
 }
 
 .images img{ 
@@ -73,9 +72,6 @@ ul li:hover{
     display: flex;
     justify-content: flex-end;
 }
-/* .button a{
-    margin: auto;
-} */
 .web{
     display: flex;
     align-items: flex-end;
