@@ -6,7 +6,7 @@ The website is all about my portfolio landing page.It showcases who I am.
 ## set up
 The website can be viewed online.
 ## link to live site on Github pages
-
+https://charlesosang017.github.io/Portfolio/.
 ### Licence
 Copyrite (C) 2020 ** Moringa School
 
